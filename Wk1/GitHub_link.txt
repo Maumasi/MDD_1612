@@ -1,2 +1,2 @@
 GitHub link:
-https://github.com/Maumasi/MDD_1612/tree/master/assingment1_UI_Exploration
+https://github.com/Maumasi/MDD_1612/tree/master/Wk1
